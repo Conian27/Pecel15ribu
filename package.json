@@ -1,0 +1,19 @@
+{
+  "name": "pecel15ribu-tea",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Conian27/Pecel15ribu"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Conian27/Pecel15ribu/issues"
+  },
+  "homepage": "https://github.com/Conian27/Pecel15ribu#readme"
+}
